@@ -1,2 +1,2 @@
 # Pemrograman-Web
-Untuk Kuliah
+Repository untuk Tugas Mata Kuliah Pemrograman Web
